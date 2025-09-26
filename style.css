@@ -1,0 +1,90 @@
+.project-img {
+  border-style: double;
+  border-color: #dcdcdc;
+}
+
+.container-project-img {
+  height: 450px;
+}
+
+/*allgemein*/
+.divider-container {
+  height: 60px;
+}
+
+/*Dropdown-menu*/
+.dropdown-menu {
+  display: none;
+}
+
+/*Home*/
+
+/*Projekte*/
+.project-example-img {
+  max-width: 100%;
+  border-radius: 2%;
+  display: block;
+}
+
+/*Stellenangebot*/
+.stellenangebot-background-img {
+  height: 100px;
+}
+
+.stellenangebot-section02-teilcontainer01 {
+  width: 100%;
+  text-align: left;
+  display: inline-block;
+}
+
+.stellenangebot-section02-teilcontainer02 {
+  display: none;
+  float: right;
+}
+
+/*Unternehmen*/
+
+.unterhmen-head-img {
+  background-image: url(Res/img/Berlin-Unterhmen.jpg);
+  height: 50vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.unterhmen-head-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-text {
+  display: block;
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.content-text h1 {
+  font-size: 5rem;
+}
+
+.content-text p {
+  font-size: 2.5rem;
+}
+
+.profile-img {
+  border-radius: 2%;
+  padding-bottom: 25px;
+}
+
+/*Partner*/
+
+/*Impressum*/
+
+.divider-container-impressum {
+  padding: 150px;
+  margin: 30px 0;
+}
