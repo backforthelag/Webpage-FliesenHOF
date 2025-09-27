@@ -61,3 +61,15 @@ $("#website-villeroyUndBoch-btn").click(function () {
 $("#projekte-btn").click(function () {
   window.location.href = "Sites/projekte.html";
 });
+
+// Stellenangebot Button
+
+$("#stellenangebot-btn").click(function () {
+  window.location.href = "Sites/Stellenangebot.html";
+});
+
+// Partner + Marken Button
+
+$("#qualität-btn").click(function () {
+  window.location.href = "Sites/partner+marken.html";
+});
